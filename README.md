@@ -20,7 +20,9 @@ also available in the notebook
 
 [link to crypto_table](https://jamie-miller-rva.github.io/crypto_table/)
 
-## A 3D Visualization of the 532 crypto currencies along 3 principal components (via Pincipal Component Analysis)
+![crypto_table](./Images/Crypto_table.png)
+
+## A 3D Visualization of the 532 crypto currencies grouped along 3 principal components (via Pincipal Component Analysis)
 see the notebook for an interactive visualization
 
 ![crypto_in_3d](./Images/fig1.svg)
