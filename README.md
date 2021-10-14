@@ -29,7 +29,7 @@ see the notebook for an interactive visualization
 ![crypto_in_3d](./Images/fig1.svg)
 
 ## A Grouping of Crypto Currencies on a Scatter Plot of TotalCoinsMined vs. TotalCoinsSupply (scaled using StandardScaler)
-The visualization groups the 532 crypto currencies into one of four groups using KMeans analysis. The values of TotalCoinsMined and TotalCoinsSupply are Standardized to a scale between 0 - 1 to assist in visualizing the differences between groups
+The visualization groups the 532 crypto currencies into one of four groups using KMeans analysis. The values of TotalCoinsMined and TotalCoinsSupply are Standardized to a scale between -1 and +1 to assist in visualizing the differences between groups
 see the notebook for an interactive visualization
 
 ![crypto scatterplot](./Images/Crypto_ScatterPlot.png)
