@@ -6,7 +6,7 @@
 
 
 # Background:
-Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. 
+Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. However, the company is lost in the vast universe of cryptocurrencies. 
 
 # Problem Statement:
 Identify what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
