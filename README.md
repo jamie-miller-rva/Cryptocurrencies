@@ -1,8 +1,8 @@
 # Crypto Currencies Analysis using Clustering
 
-* webpage: https://jamie-miller-rva.github.io/Cryptocurrencies/
+* webpage: ![webpage](https://jamie-miller-rva.github.io/Cryptocurrencies/)
 
-* github repo: https://github.com/jamie-miller-rva/Cryptocurrencies
+* github repo: ![github repo](https://github.com/jamie-miller-rva/Cryptocurrencies)
 
 
 # Background:
